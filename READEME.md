@@ -1,0 +1,1 @@
+This is a tool to extract data from pokemon emerald. You can change the offsets at the top of the file. This will probably work with other gen 3 pokemon games when configured right.
